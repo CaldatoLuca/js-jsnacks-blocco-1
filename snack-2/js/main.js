@@ -16,10 +16,14 @@ console.log({ parolaDue });
 console.log(parolaUno.length);
 console.log(parolaDue.length);
 
+//? condizione
 if (parolaUno.length > parolaDue.length) {
+  console.log({ parolaUno });
   alert(parolaUno);
 } else if (parolaUno.length < parolaDue.length) {
+  console.log({ parolaDue });
   alert(parolaDue);
 } else {
+  console.log(`${parolaDue} è lunga come ${parolaUno}`);
   alert(`${parolaDue} è lunga come ${parolaUno}`);
 }
