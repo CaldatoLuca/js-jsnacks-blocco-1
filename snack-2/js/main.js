@@ -18,9 +18,13 @@ console.log(parolaDue.length);
 
 //? condizione
 if (parolaUno.length > parolaDue.length) {
+  console.log({ parolaDue });
+  alert(parolaDue);
   console.log({ parolaUno });
   alert(parolaUno);
 } else if (parolaUno.length < parolaDue.length) {
+  console.log({ parolaUno });
+  alert(parolaUno);
   console.log({ parolaDue });
   alert(parolaDue);
 } else {
