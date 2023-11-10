@@ -2,7 +2,7 @@
 // Il software stampa prima la parola più corta, poi la parola più lunga.
 
 // inserico le due parole con prompt
-// controloo con if quale sia la piu lunga (stampo la piu corta) else (stampo l' altra)
+// controloo con if quale sia la piu lunga (stampo la piu corta) else if (stampo l' altra) else (sono pari)
 
 `use.strict`;
 
