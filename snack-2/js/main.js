@@ -31,3 +31,6 @@ if (parolaUno.length > parolaDue.length) {
   console.log(`${parolaDue} è lunga come ${parolaUno}`);
   alert(`${parolaDue} è lunga come ${parolaUno}`);
 }
+
+//!Correzzione
+//! Più verboso con i console.log in modo da migliorare l' esperienza utente
