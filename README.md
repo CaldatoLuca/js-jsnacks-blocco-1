@@ -18,3 +18,8 @@ Il programma stampa la somma di tutti i numeri inseriti.
 
 Crea un array vuoto e chiedi all’utente un numero da inserire nell’array.
 Continua a chiedere i numeri all’utente e a inserirli nell’array fino a quando la somma degli elementi è inferiore di 50.
+
+### Snack 5
+
+Fai inserire un numero, che chiameremo N, all’utente.
+Genera N array, ognuno formato da 10 numeri casuali tra 1 e 100. Ogni volta che ne crei uno, stampalo a schermo
